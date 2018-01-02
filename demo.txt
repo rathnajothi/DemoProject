@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HelloWorld
 
+=======
+HelloWorld
+>>>>>>> parent of 1bc5325... Modifie demo.txt

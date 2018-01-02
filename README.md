@@ -1,3 +1,2 @@
 # DemoProject
-# Description 
-# Author
+# Description
